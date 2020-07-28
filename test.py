@@ -29,3 +29,4 @@ print(s['d']) # ---> Returns '13'
 
 print(s[1:4])
 print(s['b':'e'])
+print("test")
